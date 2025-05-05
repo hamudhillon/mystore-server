@@ -53,8 +53,6 @@ exports.login=(req,res)=>{
     if(index ==-1) return res.status(404).json({message:'User not found'})
     
     if(Users[index].password!=password) return res.status(200).json({message:'User password wrong'})
-    
-    
     res.status(200).json({data:Users[index]})
 
 }

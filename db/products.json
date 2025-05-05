@@ -1,1 +1,20 @@
-[{"id":1746006664069,"name":"Proucst1","price":"115","description":"sdashdashdgd","category":"SALT ","brand":"TATA","images":"/uploads/Proucst1-1746006664044.jpg"},{"id":1746172693112,"name":"pro1","price":"1000","description":"shdhjsa","category":"shoe","brand":"nike","images":"/uploads/pro1-1746172693102.jpg"}]
+[
+    {
+        "id": 1746006664069,
+        "name": "Proucst1",
+        "price": "115",
+        "description": "sdashdashdgd",
+        "category": "SALT ",
+        "brand": "TATA",
+        "images": "/uploads/Proucst1-1746006664044.jpg"
+    },
+    {
+        "id": 1746172693112,
+        "name": "pro1",
+        "price": "1000",
+        "description": "shdhjsa",
+        "category": "shoe",
+        "brand": "nike",
+        "images": "/uploads/pro1-1746172693102.jpg"
+    }
+]
